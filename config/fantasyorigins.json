@@ -1,0 +1,12 @@
+{
+	"goblin": {
+		"spawn": false,
+		"weight": 8,
+		"groupMin": 2,
+		"groupMax": 4,
+		"spawnBiomes": [
+			"plains",
+			"extreme_hills"
+		]
+	}
+}

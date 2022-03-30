@@ -1,0 +1,60 @@
+generateCabins = true
+moddedLootInChests = true
+extractinatorSupport = true
+techLoot = "MODERN_INDUSTRIALIZATION"
+
+[defaultCabin]
+enabled = true
+spacing = 6
+separation = 4
+minHeight = 3
+maxHeight = 42
+
+[deepslateCabin]
+enabled = true
+spacing = 6
+separation = 4
+minHeight = -56
+maxHeight = -3
+
+[desertCabin]
+enabled = true
+spacing = 5
+separation = 4
+minHeight = 3
+maxHeight = 44
+
+[mesaCabin]
+enabled = true
+spacing = 4
+separation = 3
+minHeight = 3
+maxHeight = 48
+
+[taigaCabin]
+enabled = true
+spacing = 5
+separation = 4
+minHeight = 3
+maxHeight = 48
+
+[iceCabin]
+enabled = true
+spacing = 4
+separation = 3
+minHeight = 3
+maxHeight = 42
+
+[jungleCabin]
+enabled = true
+spacing = 4
+separation = 3
+minHeight = 3
+maxHeight = 44
+
+[oceanCabin]
+enabled = true
+spacing = 8
+separation = 6
+minHeight = 24
+maxHeight = 44
